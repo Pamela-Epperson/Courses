@@ -1,0 +1,11 @@
+* {
+    font-family: sans-serif;
+    margin: 0px auto;
+    padding: 30px;
+
+}
+#delete{
+    padding: 10px;
+    background-color: darkred;
+    color: whitesmoke;
+}

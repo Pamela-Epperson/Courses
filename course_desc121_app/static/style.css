@@ -1,0 +1,38 @@
+* {
+    font-family: sans-serif;
+    margin: 0px auto;
+
+}
+#wrapper {
+    width: 800px;
+    height: 650px;
+    background-color: darkslateblue;
+}
+#form{
+    border-width: 5px;
+    border-color: silver;
+}
+#add {
+    padding: 40px;
+}
+textarea {
+    width: 60px;
+    height: 40px;
+}
+a {
+   color: rgb(182, 180, 74); 
+}
+button {
+    color: white;
+    background-color: green;
+}
+#table{
+    border-width: 10px;
+    border-color: black;
+    padding: 40px;
+}
+th {
+    font-weight: bold;
+    background-color: darkgrey;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
